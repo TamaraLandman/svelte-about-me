@@ -4,9 +4,7 @@
   "name": "about-me",
   "private": true,
   "version": "0.0.0",
-  "type": "module"
-},
-
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -20,6 +18,8 @@
     "svelte": "^5.28.1",
     "vite": "^6.3.5"
   }
+}
+
 
   
 
