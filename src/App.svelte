@@ -1,5 +1,5 @@
 <script>
-  import ImageCard from "./ImageCard.svelte";
+  import ImageCard from "./lib/ImageCard.svelte";
   
   let cardData = [
     {
