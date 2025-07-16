@@ -1,7 +1,7 @@
 
 {
   "homepage": "https://TamaraLandman.github.io/svelte-about-me",
-  "name": "about-me",
+  "name": "svelte-about-me",
   "private": true,
   "version": "0.0.0",
   "type": "module",
